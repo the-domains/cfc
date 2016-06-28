@@ -1,0 +1,14 @@
+layout_spectrum: 0.613941648742184
+typography_spectrum: 0.2968247018288821
+color:
+  brandStrength: 0.7246968015097082
+  lightness: 0.16426663543097675
+  saturation: 0.8227662981953472
+  rhythmicContrast: 0.2981174208689481
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: CFC
