@@ -6,9 +6,9 @@ color:
   saturation: 0.8227662981953472
   rhythmicContrast: 0.2981174208689481
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: CFC
