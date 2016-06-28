@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-28T04:39:08.187Z'
+datePublished: '2016-06-28T04:40:48.306Z'
+sourcePath: _posts/2016-06-28-mens-reachtm-hybrid-jacket.md
 author: []
-dateModified: '2016-06-28T04:39:05.067Z'
+dateModified: '2016-06-28T04:39:20.824Z'
 title: ''
 description: Men’s Reach™ Hybrid Jacket
 starred: false
-sourcePath: _posts/2016-06-28-mens-reachtm-hybrid-jacket.md
 inFeed: true
 hasPage: true
 inNav: false
