@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CFC]]></title>
         <description><![CDATA[CFC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 04:17:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 04:19:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cfc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/512fd4bc-ba45-4d18-8fbf-6b0db403ceeb.jpg">]]></description>
+            <link>https://thegrid.ai/cfc/cyclone2-orange-back-zip-full-suit/index.html</link>
+            <guid isPermaLink="false">ac2ca275-b04f-4b97-9a0d-42dd861ca9c7</guid>
+            <pubDate>Tue, 28 Jun 2016 04:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/616c1671-e66f-4d7c-8ad2-ff92918f3529.jpg">]]></description>
-            <link>undefinedaccess-series-glove/index.html</link>
+            <link>https://thegrid.ai/cfc/access-series-glove/index.html</link>
             <guid isPermaLink="false">290a2500-8cfb-41a3-bc94-be7839202b50</guid>
             <pubDate>Tue, 28 Jun 2016 04:17:47 GMT</pubDate>
         </item>
