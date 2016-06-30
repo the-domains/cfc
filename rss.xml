@@ -4,8 +4,15 @@
         <description><![CDATA[CFC]]></description>
         <link>https://thegrid.ai/cfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 06:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 00:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cfc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ACCESS SERIES GLOVE]]></title>
+            <description><![CDATA[<article><h1>ACCESS SERIES GLOVE</h1><p>Sizes XS-XXL</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7add9d8bca8316e4632b98649f8edd2f8c8e4d7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cfc/access-series-glove/index.html</link>
+            <guid isPermaLink="false">290a2500-8cfb-41a3-bc94-be7839202b50</guid>
+            <pubDate>Thu, 30 Jun 2016 00:05:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MAKO DUKE]]></title>
             <description><![CDATA[<article><h1>MAKO DUKE</h1><p>Weight – 7.8 lbs / 3.54 kgLength – 165 cm by 47 cm (5’4” by 18 ½” )Volume 25.3 Litres</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4dce592769d012bb05240d13707b51ec/croprotate.jpg?cropheight=900&cropwidth=538&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5302322c-3f79-4735-9534-f067e13b51fb.jpg&x=30&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cfc/cyclone2-orange-back-zip-full-suit/index.html</link>
             <guid isPermaLink="false">ac2ca275-b04f-4b97-9a0d-42dd861ca9c7</guid>
             <pubDate>Tue, 28 Jun 2016 04:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/616c1671-e66f-4d7c-8ad2-ff92918f3529.jpg">]]></description>
-            <link>https://thegrid.ai/cfc/access-series-glove/index.html</link>
-            <guid isPermaLink="false">290a2500-8cfb-41a3-bc94-be7839202b50</guid>
-            <pubDate>Tue, 28 Jun 2016 04:17:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
