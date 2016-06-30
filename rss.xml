@@ -4,7 +4,7 @@
         <description><![CDATA[CFC]]></description>
         <link>https://thegrid.ai/cfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 00:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 00:10:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cfc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ACCESS SERIES GLOVE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cfc/access-series-glove/index.html</link>
             <guid isPermaLink="false">290a2500-8cfb-41a3-bc94-be7839202b50</guid>
             <pubDate>Thu, 30 Jun 2016 00:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyper Flex]]></title>
+            <description><![CDATA[<article><h1>Hyper Flex</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3148d3a-d595-4aca-a6d0-2dd6b8611f02.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3148d3a-d595-4aca-a6d0-2dd6b8611f02.png</link>
+            <guid isPermaLink="false">5a6294a7-7b30-46f1-8bb9-6ed9df54af14</guid>
+            <pubDate>Thu, 30 Jun 2016 00:09:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NP Surf]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cfc/neoprene-playa-jacket/index.html</link>
             <guid isPermaLink="false">f1f22ab9-3e68-427a-bd57-edf42951a38d</guid>
             <pubDate>Tue, 28 Jun 2016 04:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91be412f-f525-47c9-a183-ed05f326c6dd.jpg">]]></description>
-            <link>https://thegrid.ai/cfc/amp-reef-boot/index.html</link>
-            <guid isPermaLink="false">ed81ce34-0be9-423b-b9d6-8752d55c5258</guid>
-            <pubDate>Tue, 28 Jun 2016 04:20:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
