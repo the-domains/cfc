@@ -4,7 +4,7 @@
         <description><![CDATA[CFC]]></description>
         <link>https://thegrid.ai/cfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 00:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 00:09:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cfc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ACCESS SERIES GLOVE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cfc/access-series-glove/index.html</link>
             <guid isPermaLink="false">290a2500-8cfb-41a3-bc94-be7839202b50</guid>
             <pubDate>Thu, 30 Jun 2016 00:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NP Surf]]></title>
+            <description><![CDATA[<article><h1>NP Surf</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/281c5b45-9bc2-4884-8395-06d59e82ca2b.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/281c5b45-9bc2-4884-8395-06d59e82ca2b.png</link>
+            <guid isPermaLink="false">b6d69d21-a5a3-478f-9f8c-58b33e032f34</guid>
+            <pubDate>Thu, 30 Jun 2016 00:09:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAKO DUKE]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cfc/amp-reef-boot/index.html</link>
             <guid isPermaLink="false">ed81ce34-0be9-423b-b9d6-8752d55c5258</guid>
             <pubDate>Tue, 28 Jun 2016 04:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/512fd4bc-ba45-4d18-8fbf-6b0db403ceeb.jpg">]]></description>
-            <link>https://thegrid.ai/cfc/cyclone2-orange-back-zip-full-suit/index.html</link>
-            <guid isPermaLink="false">ac2ca275-b04f-4b97-9a0d-42dd861ca9c7</guid>
-            <pubDate>Tue, 28 Jun 2016 04:19:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
